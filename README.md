@@ -29,9 +29,9 @@ A comprehensive project that integrates various Excel functionalities to solve a
 
 **V. What-If Analysis**
 
-Utilizes Excel's what-if analysis tools, such as Data Tables, Scenario Manager, and Goal Seek, to forecast outcomes and make data-driven decisions. This project emphasizes the importance of modeling different scenarios to anticipate potential results.
+Utilizes Excel's what-if analysis tools to forecast outcomes and make data-driven decisions. This project emphasizes the importance of modeling different scenarios to anticipate potential results.
 
-Conditional Formatting Techniques
+**VI. Conditional Formatting Techniques**
 
 Demonstrates the use of conditional formatting to highlight data trends and patterns visually. By applying formatting rules, this project enhances data readability and helps in quickly identifying key information.
 
